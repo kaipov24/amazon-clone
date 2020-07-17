@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visit my amazon-clone project [Better than amazon)](https://clone-fd2a4.web.app/).
 
 ## Available Scripts
 
