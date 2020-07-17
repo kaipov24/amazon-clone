@@ -58,28 +58,28 @@ function Home() {
           title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
           price={11.96}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://avatars.mds.yandex.net/get-pdb/2480261/9483b78c-c265-47e5-8cc6-3b317deeb51c/s1200"
         ></Product>
         <Product
           id="12321341"
           title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
           price={11.96}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://avatars.mds.yandex.net/get-pdb/27625/2f0aa7c1-b6db-4975-a246-68e7face7231/s1200"
         ></Product>
         <Product
           id="12321341"
           title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
           price={11.96}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://avatars.mds.yandex.net/get-pdb/2838786/2c560e54-6e37-4f95-a155-085fa1bd5e41/s1200"
         ></Product>
         <Product
           id="12321341"
           title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
           price={11.96}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://avatars.mds.yandex.net/get-pdb/28866/66541628-aca7-4fab-a478-aa4262499dae/s1200"
         ></Product>
       </div>
     </div>
